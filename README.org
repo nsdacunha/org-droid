@@ -1,2 +1,0 @@
-* org-droid
-An android interface for emacs org-mode files. Intended to be fully compatible and support all org-mode features.
